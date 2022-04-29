@@ -5,7 +5,7 @@
 Neste projeto, foi desenvolvido testes para uma aplicação React já criada e configurada.
 
 A pasta de testes se encontra em:
-> src/tests
+`src/tests`
 
 ## Técnologias usadas
 
